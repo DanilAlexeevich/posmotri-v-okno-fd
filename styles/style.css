@@ -80,11 +80,11 @@ ol {
 
 .title {
   padding-bottom: 16px;
-  font-family: "Oswald", Arial, sans-serif;;
+  font-family: "Oswald", Arial, sans-serif;
+  text-transform: uppercase;
   font-weight: 700;
   font-size: 75px;
   line-height: 70.5px;
-  text-transform: uppercase;
 }
 
 .content__list-container {
@@ -126,7 +126,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: "Oswald", Arial, sans-serif;;
+  font-family: "Oswald", Arial, sans-serif;
   font-size: 30px;
   text-transform: uppercase;
   overflow: hidden;
@@ -185,7 +185,7 @@ ol {
 }
 
 .search-form__textfield {
-  font-family: "Fira Sans Condensed", "Arial Narrow", sans-serif;;
+  font-family: "Fira Sans Condensed", "Arial Narrow", sans-serif;
   color: #ffffff;
   width: 225px;
   height: 27px;
@@ -264,7 +264,7 @@ ol {
 .button {
   background-color: transparent;
   border: 1px solid #ffffff;
-  font-family: "Fira Sans Condensed", "Arial Narrow", sans-serif;;
+  font-family: "Fira Sans Condensed", "Arial Narrow", sans-serif;
   line-height: 100%;
   font-weight: 700;
   font-size: 18px;
